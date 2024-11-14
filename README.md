@@ -4,7 +4,7 @@ Welcome to my MATLAB portfolio, where I present a curated selection of scripts d
 
 ## 📂 Overview  
 The portfolio is organized as follows:
-- **One folder** contains all `.m` files for easy access to the entire portfolio.
+-  📁 `All Codes` contains all `.m` files for easy access to the entire portfolio.
 - **Each code** has its own folder, which includes:
   - A single `.m` script.
   - Relevant `data` 📊 and `Input Instructions` 📑 files.
