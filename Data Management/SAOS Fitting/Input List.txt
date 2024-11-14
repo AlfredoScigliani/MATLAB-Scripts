@@ -1,0 +1,4 @@
+Input List for SAOS model code:
+
+1. Select SAOS data file: SAOS_sample.csv
+2. Enter mode to Export: 3
