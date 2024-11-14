@@ -1,3 +1,0 @@
-Input for FlowCurve_Format code:
-
-1. Select File: FlowCurve_Default.csv
