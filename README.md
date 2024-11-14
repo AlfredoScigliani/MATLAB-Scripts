@@ -1,6 +1,6 @@
 # 🚀 MATLAB Scripts Portfolio
 
-Welcome to my MATLAB portfolio, where I present a curated selection of scripts developed during my research in chemical engineering. This collection highlights my coding skills and experience in using MATLAB to solve complex engineering problems.
+Welcome to my MATLAB portfolio, where I present a curated selection of scripts developed during my Ph.D. research in Chemical Engineering. This collection highlights my coding skills and experience in using MATLAB to solve complex engineering problems.
 
 ## 📂 Overview  
 The portfolio is organized as follows:
